@@ -1,3 +1,11 @@
+# [Battery-Neofetch](https://github.com/Biscgit/battery-neofetch)
+
+**Fully compatible [neofetch](https://github.com/dylanaraps/neofetch) configuration with custom scripted battery and
+color bar**
+
+![Example](assets/images/example.png)
+
+
 ## ToDo's
 
 - [x] Battery bar icons
