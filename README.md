@@ -42,8 +42,8 @@ color bar**
 
 ### Other
 
-- Pacman themed bottom color-bar
 - Planet ASCII-art with colorful stars
+- Extendable with own configs
 
 ## ToDo's
 
