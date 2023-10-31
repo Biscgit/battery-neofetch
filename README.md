@@ -5,6 +5,41 @@ color bar**
 
 ![Example](assets/images/example.png)
 
+## Features
+
+### Battery bar
+
+- Normal drain <br>
+  ![Bar state](assets/images/bar_discharge.png)
+
+
+- Below 30% <br>
+  ![Bar state](assets/images/bar_low.png)
+
+
+- Below 20% <br>
+  ![Bar state](assets/images/bar_critical.png)
+
+
+- Below 10% <br>
+  ![Bar state](assets/images/bar_empty.png)
+
+
+- Charging <br>
+  ![Bar state](assets/images/bar_charging.png)
+
+
+- Full and plugged in <br>
+  ![Bar state](assets/images/bar_full.png)
+
+
+- Disabled <br>
+  ![Bar state](assets/images/bar_disabled.png)
+
+
+- Battery not found <br>
+  ![Bar state](assets/images/bar_error.png)
+
 
 ## ToDo's
 
