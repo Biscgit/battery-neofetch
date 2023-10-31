@@ -40,6 +40,10 @@ color bar**
 - Battery not found <br>
   ![Bar state](assets/images/bar_error.png)
 
+### Other
+
+- Pacman themed bottom color-bar
+- Planet ASCII-art with colorful stars
 
 ## ToDo's
 
