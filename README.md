@@ -50,6 +50,30 @@ color bar**
 - Planet ASCII-art with colorful stars
 - Extendable with own configs
 
+## How to install
+
+Open a bash prompt and execute the code below[^1].
+It will create a backup of your current neofetch config.
+
+```shell
+git clone https://github.com/Biscgit/battery-neofetch.git
+cd battery-neofetch
+chmod +x install.sh
+./install.sh
+```
+
+**NOTE: install.sh is a WIP**
+
+Check installation by typing `neofetch` into the command prompt and switch the Distro Icon to your preferred one.
+> [!IMPORTANT]
+> You need to have Nerdfonts installed on your machine.
+
+Finally, you can configure the settings in the configuration file as your needs fit.
+
+> [!NOTE]
+> If "Battery error" shows up on running `neofetch`,
+> check if the correct battery has been selected in the configuration file.
+
 ## ToDo's
 
 - [x] Battery bar icons
@@ -61,3 +85,5 @@ color bar**
 ## Thank you
 
 By [David Horvát](https://github.com/Biscgit) [2023] :heart:~  
+
+[^1]: No warranties on anything provided, run at your own risk.
