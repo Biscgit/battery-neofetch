@@ -1,9 +1,12 @@
 # [Battery-Neofetch](https://github.com/Biscgit/battery-neofetch)
 
-**Fully compatible [neofetch](https://github.com/dylanaraps/neofetch) configuration with custom scripted battery and
-color bar**
+<center>
+Fully compatible <a href="https://github.com/dylanaraps/neofetch">neofetch</a> configuration with custom scripted battery and color bar
 
 ![Example](assets/images/example.png)
+
+<img alt="badge" src="assets/images/badge.svg">
+</center>
 
 ## Features
 
