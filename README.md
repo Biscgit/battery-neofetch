@@ -1,10 +1,12 @@
 # [Battery-Neofetch](https://github.com/Biscgit/battery-neofetch)
 
-<div align="center">
-Fully compatible <a href="https://github.com/dylanaraps/neofetch">neofetch</a> configuration with custom scripted battery and color bar
+<div align="center" style="margin-top: 25px">
 
-<img alt="example" src="assets/images/example.png">
-<img alt="badge" src="assets/images/badge.svg">
+Fully compatible <a href="https://github.com/dylanaraps/neofetch">neofetch</a> configuration with custom scripted 
+battery and color bar.
+
+<img alt="example" src="assets/images/example.png" style="margin-top: 15px">
+<img alt="badge" src="assets/images/badge.svg" style="margin-top: 15px">
 
 </div>
 
