@@ -52,7 +52,7 @@ color bar**
 
 ## How to install
 
-Open a bash prompt and execute the code below[^1].
+Open a bash prompt and execute the code below.
 It will create a backup of your current neofetch config.
 
 ```shell
@@ -86,4 +86,4 @@ Finally, you can configure the settings in the configuration file as your needs 
 
 By [David Horvát](https://github.com/Biscgit) [2023] :heart:~  
 
-[^1]: No warranties on anything provided, run at your own risk.
+<sub> No warranties on anything provided, run at your own risk.</sub> 
