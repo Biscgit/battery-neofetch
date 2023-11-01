@@ -92,7 +92,7 @@ Finally, you can configure the settings in the configuration file as your needs 
 
 ## Thank you
 
-Feel free to create suggestions!
+Feel free to submit suggestions!
 
 <sub>
 (No warranties on anything provided, run at your own risk.)
