@@ -1,52 +1,55 @@
 # [Battery-Neofetch](https://github.com/Biscgit/battery-neofetch)
 
-<center>
+<div align="center">
 Fully compatible <a href="https://github.com/dylanaraps/neofetch">neofetch</a> configuration with custom scripted battery and color bar
 
 <img alt="example" src="assets/images/example.png">
 <img alt="badge" src="assets/images/badge.svg">
 
-</center>
+</div>
 
 ## Features
 
+Why this is more than just a simple neofetch configuration:
+
 ### Battery bar
 
-- Normal drain <br>
-  ![Bar state](assets/images/bar_discharge.png)
+<div style="position:relative; left: 5%; margin-top: 25px">
 
+<b>Draining Battery</b><br>
+<img alt="bar" src="assets/images/bar_discharge.png" width=80%>
 
-- Below 30% <br>
-  ![Bar state](assets/images/bar_low.png)
+<b>Below 30%</b><br>
+<img alt="bar" src="assets/images/bar_low.png" width=80%>
 
+<b>Below 20%</b><br>
+<img alt="bar" src="assets/images/bar_critical.png" width=80%>
 
-- Below 20% <br>
-  ![Bar state](assets/images/bar_critical.png)
+<b>Below 10%</b><br>
+<img alt="bar" src="assets/images/bar_empty.png" width=80%>
 
+<b>Charging</b><br>
+<img alt="bar" src="assets/images/bar_charging.png" width=80%>
 
-- Below 10% <br>
-  ![Bar state](assets/images/bar_empty.png)
+<b>Full and plugged in</b><br>
+<img alt="bar" src="assets/images/bar_full.png" width=80%>
 
+<b>Disabled</b><br>
+<img alt="bar" src="assets/images/bar_disabled.png" width=80%>
 
-- Charging <br>
-  ![Bar state](assets/images/bar_charging.png)
+<b>Battery not found</b><br>
+<img alt="bar" src="assets/images/bar_error.png" width=80%>
 
-
-- Full and plugged in <br>
-  ![Bar state](assets/images/bar_full.png)
-
-
-- Disabled <br>
-  ![Bar state](assets/images/bar_disabled.png)
-
-
-- Battery not found <br>
-  ![Bar state](assets/images/bar_error.png)
+</div>
 
 ### Bottom bar
 
-- Colorful Pacman themed bar <br>
-  ![Bottom Bar](assets/images/bar_bottom.png)
+<div style="position:relative; left: 5%; margin-top: 25px">
+
+<b>Colorful Pacman themed bar</b>
+<img src="assets/images/bar_bottom.png" alt="Bar" width=80%>
+
+</div>
 
 ### Other
 
