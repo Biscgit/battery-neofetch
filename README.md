@@ -101,6 +101,6 @@ Finally, you can configure the settings in the configuration file as your needs 
 Feel free to submit suggestions!<br>
 <sub>(No warranties on anything provided, run at your own risk.)</sub>
 
-<img alt="badge" src="https://forthebadge.com/images/badges/built-with-love.svg"><br>
+<img alt="badge" src="assets/images/badge.svg"><br>
 
 </div>
