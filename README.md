@@ -1,4 +1,4 @@
-# [Battery-Neofetch](https://github.com/Biscgit/battery-neofetch)
+# Battery-Neofetch
 
 <div align="center" style="margin-top: 25px">
 
