@@ -92,8 +92,11 @@ Finally, you can configure the settings in the configuration file as your needs 
 
 ## Thank you
 
-Feel free to submit suggestions!
+<div align="center">
 
-<sub>
-(No warranties on anything provided, run at your own risk.)
-</sub>
+Feel free to submit suggestions!<br>
+<sub>(No warranties on anything provided, run at your own risk.)</sub>
+
+<img alt="badge" src="https://forthebadge.com/images/badges/built-with-love.svg"><br>
+
+</div>
