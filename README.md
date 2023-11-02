@@ -53,7 +53,7 @@ Why this is more than just a simple neofetch configuration:
 <div style="position:relative; left: 5%; margin-top: 25px">
 
 <b>Colorful Pacman themed bar</b>
-<img src="assets/images/bar_bottom.png" alt="Bar" width=80%>
+<img alt="bar" src="assets/images/bar_bottom.png" width=80%>
 
 </div>
 
