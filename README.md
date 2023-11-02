@@ -6,7 +6,11 @@ Fully compatible <a href="https://github.com/dylanaraps/neofetch">neofetch</a> c
 battery and color bar.
 
 <img alt="example" src="assets/images/example.png" style="margin-top: 15px">
-<img alt="badge" src="assets/images/badge.svg" style="margin-top: 15px">
+
+<div style="margin-top: 15px">
+<img alt="badge" src="https://forthebadge.com/images/badges/does-not-contain-treenuts.svg">
+<img alt="badge" src="https://forthebadge.com/images/badges/built-with-love.svg">
+</div>
 
 </div>
 
