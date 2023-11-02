@@ -91,7 +91,7 @@ Finally, you can configure the settings in the configuration file as your needs 
 - [x] Battery bar icons
 - [x] Fix bar when battery charge is limited
 - [ ] Create simple install script
-- [ ] Make example images better looking
+- [x] Make example images better looking
 - [ ] Option to make stars the same color as the battery bar
 
 ## Thank you
